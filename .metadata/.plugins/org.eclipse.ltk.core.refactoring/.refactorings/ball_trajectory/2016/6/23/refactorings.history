@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;ODE.java&apos; to &apos;ball_trajectory/src/ball_trajectory_interfaces&apos;&#x0D;&#x0A;- Original project: &apos;ball_trajectory&apos;&#x0D;&#x0A;- Destination element: &apos;ball_trajectory/src/ball_trajectory_interfaces&apos;&#x0D;&#x0A;- Original element: &apos;ball_trajectory.ODE.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;ball_trajectory_interfaces" element1="/src&lt;ball_trajectory{ODE.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1465058033613" units="1" version="1.0"/>
+</session>

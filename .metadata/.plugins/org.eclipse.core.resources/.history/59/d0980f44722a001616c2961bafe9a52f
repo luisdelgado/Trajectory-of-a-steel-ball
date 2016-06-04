@@ -1,0 +1,5 @@
+package ball_trajectory_interfaces;
+
+public interface ODESolver {
+
+}

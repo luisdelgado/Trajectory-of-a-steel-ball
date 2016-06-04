@@ -1,0 +1,6 @@
+package ball_trajectory;
+
+public interface ODE {
+	public double[] getState();
+	public void getRate(double[] state, double[] rate);
+}
