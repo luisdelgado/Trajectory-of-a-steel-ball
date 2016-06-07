@@ -1,7 +1,7 @@
 package ball_trajectory_Classes;
 
-import ball_trajectory_interfaces.ODE;
-import ball_trajectory_interfaces.ODESolver;
+import org.opensourcephysics.numerics.ODE;
+import org.opensourcephysics.numerics.ODESolver;
 
 public class Euler extends Object implements ODESolver{
 

@@ -2,12 +2,13 @@ package ball_trajectory;
 
 import ball_trajectory_Classes.Decay;
 import ball_trajectory_Classes.Euler;
-import ball_trajectory_interfaces.ODESolver;
 import javax.swing.*;
+
+import org.opensourcephysics.numerics.ODESolver;
 
 public class Ball_Trajectory {
 	public static void main(String[] args) {
-		//PlottingPanel plottingPanel = new PlottingPanel(”Time”,”Number”, ”Number versus Time”);
+		//PlottingPanel plottingPanel = new PlottingPanel(ï¿½Timeï¿½,ï¿½Numberï¿½, ï¿½Number versus Timeï¿½);
 		//DrawingFrame plottingFrame = new DrawingFrame(plottingPanel);
 		//DatasetCollection datasetCollection = new DatasetCollection();
 		//plottingPanel.addDrawable(datasetCollection); // add dataset collection to plotting panel
