@@ -1,6 +1,6 @@
 package ball_trajectory_Classes;
 
-import org.opensourcephysics.numerics.ODE;
+import ball_trajectory_interfaces.ODE;
 
 public class Decay implements ODE {
 	double k; // decay constant
